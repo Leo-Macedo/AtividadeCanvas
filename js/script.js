@@ -5,14 +5,14 @@ const ctx = canvas.getContext('2d');
   ctx.fillRect(18, 18, 150, 100);
 
     //circulo
-    ctx.fillStyle = 'yellow';
+  ctx.fillStyle = 'yellow';
   ctx.arc(400,80,50,0,Math.PI* 2);
   ctx.fill();
   ctx.stroke();
 
   //curva
   ctx.beginPath();
-  ctx.arc(550, 80, 50, 180, Math.PI * 2);
+  ctx.arc(550, 80, 50, 0, Math.PI );
   ctx.stroke();
 
   //linha
