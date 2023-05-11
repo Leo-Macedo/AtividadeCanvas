@@ -1,5 +1,5 @@
 # DESCRIÇÃO
-Leonardo e Lucas
+Leonardo e Lucas Noel
 
 # HTML
 Fizemso a estrtura inicial e adicionamos um Canvas.
