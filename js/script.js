@@ -6,7 +6,6 @@ const ctx = canvas.getContext('2d');
 
     //circulo
   ctx.fillStyle = 'yellow';
-
   ctx.arc(400,80,50,0,Math.PI* 2);
   ctx.fill();
  
@@ -14,6 +13,7 @@ const ctx = canvas.getContext('2d');
   //curva
   ctx.beginPath();
   ctx.arc(550, 80, 50, 0, Math.PI );
+  ctx.lineWidth =3
   ctx.stroke();
 
   //linha
