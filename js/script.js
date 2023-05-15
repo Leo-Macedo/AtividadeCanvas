@@ -6,7 +6,6 @@ const ctx = canvas.getContext('2d');
 
     //circulo
   ctx.fillStyle = 'yellow';
-
   ctx.arc(400,80,50,0,Math.PI* 2);
   ctx.fill();
  
