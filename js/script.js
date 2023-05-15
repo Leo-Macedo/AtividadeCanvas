@@ -13,7 +13,8 @@ const ctx = canvas.getContext('2d');
 
   //curva
   ctx.beginPath();
-  ctx.arc(550, 80, 50, 0, Math.PI );
+  ctx.moveTo(500,50);
+  ctx.quadraticCurveTo(700,5,470,120);
   ctx.stroke();
 
   //linha
