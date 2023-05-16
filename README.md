@@ -19,4 +19,3 @@ Para a imagem, iniciamos sua instância, carregamos a imagem, definimos sua posi
 
 
 <img src="img/print.png" width="400px" height="200px">
-teste
