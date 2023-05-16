@@ -31,5 +31,8 @@ Para a imagem, iniciamos sua instância, carregamos a imagem, definimos sua posi
 
 <img src="img/img.jpg" width="800px" height="600px">
 
+## Tela Completa
+
+<img src="img/print.jpg" width="1000px" height="1000px">
 
 
