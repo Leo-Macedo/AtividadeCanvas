@@ -29,10 +29,10 @@ Para a curva, fizemos algo semelhante à linha, adicionando um ponto inicial e f
 ## Imagem
 Para a imagem, iniciamos sua instância, carregamos a imagem, definimos sua posição e tamanho, e, em seguida, linkamos a imagem que estava na pasta "img".
 
-<img src="img/img.jpg" width="800px" height="600px">
+<img src="img/img.jpg" width="400px" height="300px">
 
 ## Tela Completa
 
-<img src="img/print.jpg" width="1000px" height="1000px">
+<img src="img/print.jpg" width="600px" height="500px">
 
 
