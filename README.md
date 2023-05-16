@@ -13,4 +13,4 @@ Para a curva fizemos algo semelhante a linha adicionando um ponto final e inicia
 Para a imagem iniciamos com sua instancia e carregamos a imgagem definimos sua posição e tamanho logo em seguida linkamos a imagem que estava na pasta img. 
 
 
-
+<img src="img/print.png" width="400px" height="200px">
