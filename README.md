@@ -23,6 +23,7 @@ Para a linha, definimos seus pontos inicial e final, juntamente com a posição 
 
 ## Curva
 Para a curva, fizemos algo semelhante à linha, adicionando um ponto inicial e final, juntamente com a linha que ficará, mas adicionamos uma curva.
+
 <img src="img/cur.jpg" width="200px" height="200px">
 
 ## Imagem
