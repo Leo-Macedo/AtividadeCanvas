@@ -14,3 +14,4 @@ Para a imagem iniciamos com sua instancia e carregamos a imgagem definimos sua p
 
 
 <img src="img/print.png" width="400px" height="200px">
+teste
