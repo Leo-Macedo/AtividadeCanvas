@@ -5,12 +5,17 @@ Leonardo e Lucas Noel
 Fizemos a estrtura inicial colocamos o icone e adicionamos o Canvas e definimos seus pixeis.
 
 # JavaScript
-Criamos uma variavel onde capituramos o elemento id canvas depois criamos outra variavel que recebe o elemento ctx em um contexto de 2d
-então colocamos o futuro retangulo de verde e colocamos sua posição e tamanho.<br>
-Para o circulo apenas definimos sua cor a posição o tamanho e com o fill foi preechido.<br>
-Para a linha apenas definimos seu ponto inicial e final junto com a posição onde ficara na tela e usamos o stroke para linha no pontos inicial e final.<br>
-Para a curva fizemos algo semelhante a linha adicionando um ponto final e inicial junto com a linha que ficará só que adicionanmos uma curva.<br>
-Para a imagem iniciamos com sua instancia e carregamos a imgagem definimos sua posição e tamanho logo em seguida linkamos a imagem que estava na pasta img. 
+Criamos uma variável onde capturamos o elemento id "canvas". Depois, criamos outra variável que recebe o elemento "ctx" em um contexto 2D.
+## Retângulo
+Em seguida, desenhamos um retângulo verde e definimos sua posição e tamanho.
+## Círculo
+Para o círculo, apenas definimos sua cor, posição e tamanho, e o preenchemos usando "fill".
+## Linha
+Para a linha, definimos seus pontos inicial e final, juntamente com a posição na tela, e usamos "stroke" para desenhar a linha entre os pontos inicial e final.
+## Curva
+Para a curva, fizemos algo semelhante à linha, adicionando um ponto inicial e final, juntamente com a linha que ficará, mas adicionamos uma curva.
+## Imagem
+Para a imagem, iniciamos sua instância, carregamos a imagem, definimos sua posição e tamanho, e, em seguida, linkamos a imagem que estava na pasta "img".
 
 
 <img src="img/print.png" width="400px" height="200px">
